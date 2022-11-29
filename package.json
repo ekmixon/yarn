@@ -57,7 +57,7 @@
   "devDependencies": {
     "babel-core": "^6.26.0",
     "babel-eslint": "^7.2.3",
-    "babel-loader": "^6.2.5",
+    "babel-loader": "^7.0.0",
     "babel-plugin-array-includes": "^2.0.3",
     "babel-plugin-inline-import": "^3.0.0",
     "babel-plugin-transform-builtin-extend": "^1.1.2",
@@ -98,7 +98,7 @@
     "prettier": "^1.5.2",
     "string-replace-loader": "^2.1.1",
     "temp": "^0.8.3",
-    "webpack": "^2.1.0-beta.25",
+    "webpack": "^3.0.0",
     "yargs": "^6.3.0"
   },
   "resolutions": {
